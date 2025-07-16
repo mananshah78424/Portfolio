@@ -230,7 +230,7 @@ export default function Projects() {
                 </p>
                 <div className="flex items-center gap-1 text-gray-3 group-hover:text-gray-6 mt-4 mr-1">
                   <a
-                    href="https://miro.com/app/board/uXjVIAnnUHI=/?share_link_id=71375563329"
+                    href="https://vendimate.vercel.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1"
@@ -249,7 +249,7 @@ export default function Projects() {
                       <path d="M208,40H48A24,24,0,0,0,24,64V176a24,24,0,0,0,24,24h72v16H96a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16H136V200h72a24,24,0,0,0,24-24V64A24,24,0,0,0,208,40ZM48,56H208a8,8,0,0,1,8,8v80H40V64A8,8,0,0,1,48,56ZM208,184H48a8,8,0,0,1-8-8V160H216v16A8,8,0,0,1,208,184Z"></path>
                     </svg>
                     <span className="overflow-hidden w-0 group-hover:w-9 transition-[width] duration-500 ease-in-out hover:underline hover:text-white">
-                      Architecture
+                      demo
                     </span>
                   </a>
                   <a
